@@ -75,9 +75,6 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also follow the [forum](https://www.TDC.org/forum/topic/TDC-worldwide-collaboration.88/).
-# tradingcoin
-# trading-core
-# trading-coin
-# trading-coin
-# trading-coin
-# trading-coin
+#### Bitcoin donations welcome: 3BJbCUdJ8mhZn9B2Ncz1JBBEbe1R8816AW
+#### Litcoin donations welcome: MQRLB7gYHBAZuY8erwbMTguG24CBAwgwo4
+#### Dash coin donations welcome: XsXNddLuVLc1b1Q2DDqniSvwYbpq7F2BLe
